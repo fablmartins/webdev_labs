@@ -1,6 +1,9 @@
 h1{
     font-family: 'Bebas Neue', cursive;
+    color: #006400;
+    border: 3px solid #006400;
 }
 p{
     font-family: 'Ms Madi', cursive;
+    font-size: 29px;
 }
